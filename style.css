@@ -30,3 +30,19 @@ section{
     color: white;
     font-weight: 400;
 }
+.thanks{
+    color: purple;
+}
+.min{
+    color: plum;
+}
+#ttc{
+    width: 68%;
+    padding-left: 30px;
+}
+.tt-t{
+    background-image: url(image/7.png);
+}
+.mine{
+    color: slategray;
+}
