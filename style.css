@@ -8,8 +8,8 @@ body{
 .other{
     color:orange;
 }
-section{
-    display: flex;
+.display-flex{
+    display:flex;
 }
 
 .half-width{
@@ -101,6 +101,7 @@ section{
 #dribble-likes{
     margin-left: 20%;
 }
+
 .footer{
     text-align: center;
     background-color: black;
